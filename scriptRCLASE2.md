@@ -1,4 +1,6 @@
 # CursoRtaa
 Clase curso R
 search ()
-ls()
+
+library (ggplo2)
+requiere (devtools)
